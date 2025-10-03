@@ -1,0 +1,14 @@
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.exe
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.deps.json
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.dll
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.pdb
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.dll
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\obj\Debug\net9.0\refint\DesafioFundamentos.dll
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.pdb
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\Carolyn\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\DESAFIOFUNDAMENTOS\DesafioFundamentos\obj\Debug\net9.0\ref\DesafioFundamentos.dll
